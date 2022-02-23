@@ -26,7 +26,7 @@ Currently, I have been promoted to Data Science Manager of the consulting analyt
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
-![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{manugaco}/count.svg)
 
 ## 🔍 You Can Find Me at
 
