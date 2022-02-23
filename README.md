@@ -6,11 +6,10 @@
 - 🤔 I’m looking for help with some of my projects.
 - 💬 Ask me about Data Science methodologies.
 
-👁‍🗨 Visitors Count
-
-![Visitor Count](https://profile-counter.glitch.me/{manugaco}/count.svg)
+## About me:
 
 <p align="justify">
+  
 I am a profesional data scientist with almost four years on the business.
   
 I found my passion, the world of data science, while I was studying economics. 
@@ -36,3 +35,7 @@ Currently, I have been promoted to Data Science Manager of the consulting analyt
   <a href="mailto:manu.garcia.corbi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
 </p>
+
+👁‍🗨 Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/{manugaco}/count.svg)
