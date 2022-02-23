@@ -6,6 +6,10 @@
 - 🤔 I’m looking for help with some of my projects.
 - 💬 Ask me about Data Science methodologies.
 
+👁‍🗨 Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/{manugaco}/count.svg)
+
 <p align="justify">
 I am a profesional data scientist with almost four years on the business.
   
@@ -23,10 +27,6 @@ I have been working at Global Omnium Idrica as Data Scientist for one year, a so
 
 Currently, I have been promoted to Data Science Manager of the consulting analytics department at Global Omnium Idrica.
 </p>
-
-<!-- ## 👁‍🗨 Visitors Count -->
-
-![Visitor Count](https://profile-counter.glitch.me/{manugaco}/count.svg)
 
 ## 🔍 You Can Find Me at
 
