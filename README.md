@@ -1,4 +1,4 @@
-### My name is Manuel García, welcome to my github profile:
+### My name is Manu García, welcome to my github profile:
 
 - 🔭 I’m currently working on a consumption confidence app.
 - 🌱 I’m currently improving my skills on sofware engineering.
