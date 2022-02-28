@@ -27,7 +27,7 @@ I have been working at Global Omnium Idrica as Data Scientist for one year, a so
 Currently, I have been promoted to Data Science Manager of the consulting analytics department at Global Omnium Idrica.
 </p>
 
-## 🔍 You Can Find Me at
+## 🔍 Contact
 
 <p>
   <a href="https://www.linkedin.com/in/manugaco" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
