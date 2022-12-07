@@ -1,7 +1,7 @@
 ### My name is Manu García, welcome to my github profile:
 
 - 🔭 I’m currently working on a consumption confidence app.
-- 🌱 I’m currently improving my skills on sofware engineering.
+- 🌱 I’m currently improving my skills in sofware engineering.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 🤔 I’m looking for help with some of my projects.
 - 💬 Ask me about Data Science methodologies.
