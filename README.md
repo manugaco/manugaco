@@ -10,7 +10,7 @@
 
 <p align="justify">
   
-I am a profesional data scientist with almost four years on the business.
+I am a profesional data scientist with almost five years on the business.
   
 I found my passion, the world of data science, while I was studying economics. 
 
@@ -18,13 +18,16 @@ I worked as an intern at the University of Alicante for seven months, developing
 
 I studied a Master's degree in statistics for data science at the University Carlos III of Madrid, to improve my knowledge in the data science field.
 
-Once I finished, I was proposed to study a PhD in mathematical engineering at the same university.
+Once I finished, I was proposed to study a PhD in mathematical engineering at the same university where I completed the first research paper.
 
-I worked at Innova-tsn as Data Scientist for two years, a consulting firm based in Madrid, in the advance analytics area, developing projects for many important IBEX 35 companies.
+I worked at Innova-tsn as Data Scientist for two years, a consulting firm based in Madrid, in the advanced analytics area, developing projects for some important IBEX 35 companies.
 
-I have been working at Global Omnium Idrica as Data Scientist for one year, a software development company based in Valencia, in the product department and also in the analytics consulting department.
+I worked at Global Omnium Idrica as Data Scientist for one year, a software development company based in Valencia, in the product department and also in the analytics consulting department and I was promoted to Data Science Manager of the consulting analytics department.
 
-Currently, I have been promoted to Data Science Manager of the consulting analytics department at Global Omnium Idrica.
+I worked at Intrum-Solvia for 7 months, a debt recovery corporation as Senior Data Scientist.
+
+I am currently working at Accenture as Lead - Consutant Data Scientist managing teams and developing cutting edge products in the supply chain industry.
+
 </p>
 
 ## 🔍 Contact
