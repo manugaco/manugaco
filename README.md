@@ -18,7 +18,7 @@ I worked as an intern at the University of Alicante for seven months, developing
 
 I studied a Master's degree in statistics for data science at the University Carlos III of Madrid, to improve my knowledge in the data science field.
 
-Once I finished, I was proposed to study a PhD in mathematical engineering at the same university where I completed the first research paper.
+Once I finished, I started a PhD in mathematical engineering at the same university where I completed the first research paper.
 
 I worked at Innova-tsn as Data Scientist for two years, a consulting firm based in Madrid, in the advanced analytics area, developing projects for some important IBEX 35 companies.
 
