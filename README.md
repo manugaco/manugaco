@@ -26,7 +26,7 @@ I worked at Global Omnium Idrica as Data Scientist for one year, a software deve
 
 I worked at Intrum-Solvia for 7 months, a debt recovery corporation as Senior Data Scientist.
 
-I am currently working at Accenture as Lead - Consutant Data Scientist managing teams and developing cutting edge products in the supply chain industry.
+I am currently working at Accenture as Lead - Consutant Data Scientist managing teams and developing cutting edge AI products in the supply chain industry.
 
 </p>
 
