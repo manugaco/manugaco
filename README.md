@@ -1,8 +1,8 @@
 ### My name is Manu García, welcome to my github profile:
 
 - 🔭 I’m currently working on a KPI migration project.
-- 🌱 I’m currently improving my management skills.
 - 👯 I’m looking to collaborate in GenerativeAI projects.
+- 🌱 I’m currently improving my management skills.
 - 🤔 I’m looking for help with some of my projects.
 - 💬 Ask me about Data Science methodologies.
 
