@@ -9,7 +9,7 @@
 
 <p align="justify">
   
-I am a profesional data scientist with almost seven years of experience.
+I am a data scientist & AI engineer with almost seven years of experience.
   
 I found my passion, the world of data science, while I was studying economics. 
 
