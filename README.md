@@ -8,24 +8,17 @@
 
 <p align="justify">
   
-I am a data scientist & AI engineer with almost seven years of experience.
+Though I consider myself a data scientist, during the last eight years, I have gathered experience in AI engineering, backend, frontend, data engineering and architecture.
   
-I found my passion, the world of data science, while I was studying economics. 
+Out of my experience: 
 
-I worked as an intern at the University of Alicante for seven months, developing a new consumption index based on social media data, later it became my final degree thesis.
-
-I studied a Master's degree in statistics for data science at the University Carlos III of Madrid, to improve my knowledge in the data science field.
-
-Once I finished, I started a PhD in mathematical engineering at the same university where I completed the first research paper.
-
-I worked at a consulting firm called Innova-tsn as Data Scientist for two years, in the Advanced Analytics department, developing projects for important IBEX 35 companies.
-
-I worked at Global Omnium Idrica as Data Scientist for one year, a software development company based in Valencia, in the product department and also in the analytics consulting department and I was promoted to Lead Data Scientist of the Consulting Analytics department.
-
-I worked at Intrum-Solvia for 7 months as freelancer, a debt recovery corporation as Senior Data Scientist.
-
-I am currently working at Accenture as Lead Data Scientist & AI Engineer managing teams and developing cutting edge AI products in the supply chain industry.
-
+- Data Science intern at the University of Alicante Economics Fundamentals Analysis department.
+- PhD student at Carlos III University of Madrid Statistics Department.
+- Data Scientist at Innova-tsn Advanced Analytics department.
+- Data Scientist/Engineer at Global Omnium Idrica Product and Analytics Consulting department.
+- Data Scientist at Intrum-Solvia Center of Excelence and Advanced Analytics department.
+- Currently, Lead Data Scientist & AI Engineer in Accenture Data&AI Center of Excelence.
+- 
 </p>
 
 ## 🔍 Contact
