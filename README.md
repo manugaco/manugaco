@@ -1,6 +1,6 @@
 ### My name is Manu García, welcome to my github profile:
 
-- 🔭 I’m currently workingin a inventory management project.
+- 🔭 I’m currently working in an inventory management project.
 - 👯 I collaborate in Generative AI projects.
 - 💬 I provide data science consulting services.
 
