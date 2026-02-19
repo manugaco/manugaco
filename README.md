@@ -18,7 +18,7 @@ Out of my experience:
 - Data Scientist/Engineer at Global Omnium Idrica Product and Analytics Consulting department.
 - Data Scientist at Intrum-Solvia Center of Excelence and Advanced Analytics department.
 - Currently, Lead Data Scientist & AI Engineer in Accenture Data&AI Center of Excelence.
-- 
+
 </p>
 
 ## 🔍 Contact
