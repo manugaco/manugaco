@@ -12,13 +12,13 @@ Though I consider myself a data scientist, during the last eight years, I have g
   
 Out of my experience: 
 
-- Data Science intern at the University of Alicante Economics Fundamentals Analysis department.
-- PhD student at Carlos III University of Madrid Statistics Department.
-- Data Scientist at Innova-tsn Advanced Analytics department.
-- Senior Data Scientist/Engineer at Global Omnium Idrica Product and Analytics Consulting department.
-- Senior Data Scientist at Intrum-Solvia Center of Excelence and Advanced Analytics department.
-- Lead Data Scientist & AI Engineer in Accenture Data&AI Center of Excelence.
-- Data Science & AI Engineering Expert at Bank of Spain
+- Data Science Researcher @ the University of Alicante.
+- PhD student at Carlos III University of Madrid (Unfinished PhD).
+- Data Scientist @ Innova-tsn Advanced Analytics department.
+- Senior Data Scientist/Engineer @ Global Omnium Idrica Product and Analytics Consulting department.
+- Senior Data Scientist @ Intrum-Solvia Center of Excelence and Advanced Analytics department.
+- Lead Data Scientist & AI Engineer @ Accenture Data&AI Center of Excelence.
+- Data Science & AI Engineering @ Bank of Spain
 
 </p>
 
