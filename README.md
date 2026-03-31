@@ -15,9 +15,10 @@ Out of my experience:
 - Data Science intern at the University of Alicante Economics Fundamentals Analysis department.
 - PhD student at Carlos III University of Madrid Statistics Department.
 - Data Scientist at Innova-tsn Advanced Analytics department.
-- Data Scientist/Engineer at Global Omnium Idrica Product and Analytics Consulting department.
-- Data Scientist at Intrum-Solvia Center of Excelence and Advanced Analytics department.
-- Currently, Lead Data Scientist & AI Engineer in Accenture Data&AI Center of Excelence.
+- Senior Data Scientist/Engineer at Global Omnium Idrica Product and Analytics Consulting department.
+- Senior Data Scientist at Intrum-Solvia Center of Excelence and Advanced Analytics department.
+- Lead Data Scientist & AI Engineer in Accenture Data&AI Center of Excelence.
+- Data Science & AI Engineering Expert at Bank of Spain
 
 </p>
 
